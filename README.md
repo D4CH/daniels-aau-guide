@@ -13,3 +13,8 @@ This is a mess. To be cleaned up.
 8. PROFIT!
 
 Now every member of the Overleaf project can update the references on their own terms.
+
+# Skill: Nielsens 10 heuristics
+https://github.com/mastepanoski/claude-skills?tab=readme-ov-file#nielsen-heuristics-audit---usability-inspection
+
+# OpenRouter + OpenCode = Free AI 'Claude Code'-like 
