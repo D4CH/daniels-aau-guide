@@ -17,4 +17,8 @@ Now every member of the Overleaf project can update the references on their own 
 # Skill: Nielsens 10 heuristics
 https://github.com/mastepanoski/claude-skills?tab=readme-ov-file#nielsen-heuristics-audit---usability-inspection
 
+# Skill: wcag-accessibility-audit - Legal Compliance Checker
+https://github.com/mastepanoski/claude-skills?tab=readme-ov-file#wcag-accessibility-audit---legal-compliance-checker
+
 # OpenRouter + OpenCode = Free AI 'Claude Code'-like 
+
