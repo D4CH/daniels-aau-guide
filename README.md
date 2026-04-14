@@ -14,11 +14,17 @@ This is a mess. To be cleaned up.
 
 Now every member of the Overleaf project can update the references on their own terms.
 
+# Skill: Collection of UI/UX skills
+https://github.com/mastepanoski/claude-skills?tab=readme-ov-file#-available-skills
+
 # Skill: Nielsens 10 heuristics
 https://github.com/mastepanoski/claude-skills?tab=readme-ov-file#nielsen-heuristics-audit---usability-inspection
 
 # Skill: wcag-accessibility-audit - Legal Compliance Checker
 https://github.com/mastepanoski/claude-skills?tab=readme-ov-file#wcag-accessibility-audit---legal-compliance-checker
+
+# Skill: don-norman-principles-audit - Fundamental Design Check
+https://github.com/mastepanoski/claude-skills?tab=readme-ov-file#don-norman-principles-audit---fundamental-design-check
 
 # OpenRouter + OpenCode = Free AI 'Claude Code'-like 
 
