@@ -28,3 +28,9 @@ https://github.com/mastepanoski/claude-skills?tab=readme-ov-file#don-norman-prin
 
 # OpenRouter + OpenCode = Free AI 'Claude Code'-like 
 
+# Links to skills
+https://github.com/VoltAgent/awesome-agent-skills
+https://github.com/BehiSecc/awesome-claude-skills
+https://github.com/wondelai/skills
+https://smithery.ai/
+
